@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    height: 100%;
+    /* font-family: 'Rowdies', cursive;; */
+    /* font-size: 100px;
+    color: white; */
+}
+
+div.main-container {
+    border: 2px;
+}
+
+
